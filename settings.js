@@ -1,18 +1,18 @@
 const fs = require('fs');
 const chalk = require('chalk');
 /*
- * Create By Sych
- * Follow https://github.com/sychdev
- * Whatsapp : https://whatsapp.com/channel/0029Vb0v3F71yT264EejzJ3e
+ * Create By Ramzz
+ * Follow https://github.com/ramzzXD
+ * Whatsapp : https://chat.whatsapp.com/IZkQMLX7Lay6lOZAwZ109
  */
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 //settings owner di ./setown.js
-global.packname = 'SychBotz'
-global.owner = ["62882008702155"]
-global.botnum = ["6287862997267"]
-global.author = 'ydaa'
-global.owname = 'mzyda'
-global.botname = 'SYCHY BOTz'
+global.packname = 'RamzzBotz'
+global.owner = ["6285788614959"]
+global.botnum = ["6285788614959"]
+global.author = 'rmzaa'
+global.owname = 'rmzaa'
+global.botname = 'RAMZZ BOTz'
 global.themeemoji = '🪀'
 global.f = '> '
 global.n = '`'
